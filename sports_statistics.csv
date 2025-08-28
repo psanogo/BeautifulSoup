@@ -1,5 +1,4 @@
-Team,Wins,Losses
-Dragons,28,2
-Wizards,22,8
-Goblins,15,15
-Knights,11,19
+GameID,Team 1,Team 2,Expected Runs (Team 1),Expected Runs (Team 2),Over/Under,Moneyline Favorite
+1,Dragons,Unicorns,4.5,3.8,8.5,Dragons
+2,Wizards,Goblins,5.1,4.9,10.0,Wizards
+3,Knights,Orcs,3.2,4.1,7.5,Orcs
